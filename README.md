@@ -62,21 +62,21 @@ The goal of this assignment is to create a program that draws a recursive square
    **Hints:**  
    - For each rectangle, calculate the new dimensions and position based on the corner it is drawn.
    - Use `depth` as a control parameter to stop recursion.
-
+![Square Fractal 80](SquareFractal80.png)
 3. **100-Point Version:**  
    Modify the recursion so that **only three rectangles** are drawn at each corner, except for the initial rectangle, which draws all four. This adds complexity as you must ensure no rectangles overlap incorrectly.
 
    **Hints:**  
    - Carefully decide which three corners to draw rectangles for after the first rectangle.
    - You may need to add logic or flags to track which corners are being drawn.
-
+![Square Fractal](SquareFractal.png)
 4. **110-Point Version:**  
    Add **color** to the fractal. Use colors to differentiate between recursion levels. Each recursive call should use a slightly different color (e.g., based on `depth`).
 
    **Hints:**  
    - Use the `Color` class to define colors based on recursion depth.
    - Example: `g.setColor(new Color(depth * 20 % 255, 100, 255 - depth * 20 % 255));`.
-
+![Square Fractal110](SquareFractal110.png)
 ---
 
 ### **Expected Output Examples:**
