@@ -1,12 +1,7 @@
 # Square-Fractal
 
-Here’s an assignment outline for the **Square Fractals** Java recursion assignment. Students will write a recursive program to generate fractals by drawing rectangles, with incremental challenges to develop their understanding of recursion.
-
----
-
-### **Square Fractals Assignment**
 **Objective:**  
-The goal of this assignment is to create a program that draws a recursive square fractal using Java’s `Graphics` class. Fractals are excellent for practicing recursion as they involve repeating patterns that grow smaller with each iteration.
+The goal of this assignment is to create a program that draws a recursive square fractal using Java Swing. Fractals are excellent for practicing recursion as they involve repeating patterns that grow smaller with each iteration.
 
 ---
 
