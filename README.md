@@ -3,7 +3,7 @@
 **Objective:**  
 The goal of this assignment is to create a program that draws a recursive square fractal using Java Swing. Fractals are excellent for practicing recursion as they involve repeating patterns that grow smaller with each iteration.
 
-![Square Fractal](SquareFractal.PNG)
+![Square Fractal](SquareFractal.png)
 ---
 
 ### **Instructions:**
